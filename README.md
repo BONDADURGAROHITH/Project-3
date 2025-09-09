@@ -1,2 +1,4 @@
-# Project-3
-Learning GitHub with Devops
+hello github,
+
+my name project 3
+
